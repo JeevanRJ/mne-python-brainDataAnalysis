@@ -1,6 +1,6 @@
 # fNIRS Epoch-Based Processing Pipeline (MNE/MNE-NIRS)
 
-This repository contains an **epoch-based fNIRS processing pipeline** built on **MNE-Python** and **MNE-NIRS**. It loads **annotated `.fif` raw files**, applies a configurable cleaning pipeline, converts OD → Hb (MBLL), and exports **per-channel features**, **ROI-level features (two methods)**, and **QC logs**.
+This folder contains an **epoch-based fNIRS processing pipeline** built on **MNE-Python** and **MNE-NIRS**. It loads **annotated `.fif` raw files**, applies a configurable cleaning pipeline, converts OD → Hb (MBLL), and exports **per-channel features**, **ROI-level features (two methods)**, and **QC logs**.
 
 ---
 
