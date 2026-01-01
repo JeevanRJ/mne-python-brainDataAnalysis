@@ -216,4 +216,4 @@ See: `qc_logs/<Subject>_channel_inclusion_by_trial.csv`
 ---
 
 ## License
-Add a LICENSE file if you plan to share publicly (MIT is common).
+MIT
