@@ -208,12 +208,5 @@ See: `qc_logs/<Subject>_channel_inclusion_by_trial.csv`
 
 ---
 
-## Suggested repo name
-- `fnirs-epoch-processing`
-- `mne-nirs-epoch-pipeline`
-- `fnirs-roi-features-qc`
-
----
-
 ## License
 MIT
